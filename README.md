@@ -1,6 +1,6 @@
-# Samuel Aziz
+# Akif Mursalov
 
-**Full-Stack Developer & Technical Lead** | Dubai, UAE (relocating to Germany)
+**Full-Stack Developer & Technical Lead** | Nürnberg, Germany
 
 Sole developer responsible for building and maintaining **12+ production websites and web applications** for a Dubai-based company. I handle the full development lifecycle — from architecture design and database modeling to frontend implementation, DevOps, and server management.
 
@@ -53,7 +53,7 @@ Sole developer responsible for building and maintaining **12+ production website
 
 ### Links
 
-[Portfolio PDF](https://samuelaziz.com) · [samuelaziz.com](https://samuelaziz.com) · [LinkedIn](#)
+[Portfolio PDF](https://mega.nz/file/R21ClDzS#wfdUQUB0NqZIrQAzToX38S-BT2N6zdjbPd6KPuawRrI) · [akif-portfolio.vercel.app](https://akif-portfolio.vercel.app) · [LinkedIn](https://linkedin.com/in/akif-mursalov)
 
 ---
 
