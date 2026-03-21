@@ -53,7 +53,7 @@ Sole developer responsible for building and maintaining **12+ production website
 
 ### Links
 
-[Portfolio PDF](https://mega.nz/file/R21ClDzS#wfdUQUB0NqZIrQAzToX38S-BT2N6zdjbPd6KPuawRrI) · [akif-portfolio.vercel.app](https://akif-portfolio.vercel.app) · [LinkedIn](https://linkedin.com/in/akif-mursalov)
+[Portfolio PDF]([https://mega.nz/file/R21ClDzS#wfdUQUB0NqZIrQAzToX38S-BT2N6zdjbPd6KPuawRrI](https://mega.nz/file/srVU2ara#aSUSNQe28OBp4CTavcSa0Owg2jW3szvutq1i2O_jY0w)) · [akif-portfolio.vercel.app](https://akif-portfolio.vercel.app) · [LinkedIn](https://linkedin.com/in/akif-mursalov)
 
 ---
 
