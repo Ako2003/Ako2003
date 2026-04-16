@@ -1,60 +1,49 @@
 # Akif Mursalov
 
-**Full-Stack Developer & Technical Lead** | Nürnberg, Germany
+Full-Stack Engineer · Nürnberg, Germany
 
-Sole developer responsible for building and maintaining **12+ production websites and web applications** for a Dubai-based company. I handle the full development lifecycle — from architecture design and database modeling to frontend implementation, DevOps, and server management.
-
----
-
-### What I Build
-
-- **SaaS Platforms** — Built a full-stack payment processor matching platform with 35+ processors, intelligent qualification engine, one-click apply, comparison tools, and an integrated video LMS
-- **Corporate Websites** — Multi-page content-rich sites with blog/news CMS, admin panels, service pages, and SEO optimization
-- **Animation-Heavy Frontends** — Custom Framer Motion animations including sticky scroll effects, horizontal scroll-on-scroll, and parallax transitions
-- **Admin Dashboards** — Comprehensive internal tools with Google Analytics API integration, BunnyCDN video management, user analytics, notification systems, and email automation
-- **DevOps & Infrastructure** — NGINX reverse proxy, Docker containerization, CI/CD pipelines, SSL management, and VPS administration for all 12+ applications
+Two years building production web applications end-to-end — frontend, backend, and deployment. Most recently as the sole engineer on a B2B SaaS platform, architecting and shipping the entire stack from Next.js UI to PostgreSQL to Docker/NGINX VPS infrastructure.
 
 ---
 
-### Tech Stack
+### Currently
 
-**Frontend:** React.js, Next.js, TypeScript, TailwindCSS, Framer Motion, HeroUI, MaterialTailwind
-
-**Backend:** Node.js, NestJS, Express.js, REST APIs, NextAuth/JWT
-
-**Databases:** PostgreSQL, MongoDB, MySQL, Prisma, Mongoose
-
-**Cloud & DevOps:** AWS (S3, Lambda, App Runner, ECS), Docker, NGINX, Vercel, Cloudflare, BunnyCDN, GitHub Actions
+Building **[MantleUI](https://github.com/Ako2003/mantleui)** — an open-source React component library focused on architecture, testing, and accessibility. 109 components, 676+ tests, published on npm as [`@mantleui/react`](https://www.npmjs.com/package/@mantleui/react). Live: [mantleui.vercel.app](https://mantleui.vercel.app).
 
 ---
 
 ### Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**wealthcorporate**](https://github.com/Ako2003/wealthcorporate) | UAE corporate site with custom Framer Motion animations — sticky scroll, horizontal scroll-on-scroll | Next.js, Framer Motion, TailwindCSS |
-| [**privateprocessing.com**](https://github.com/Ako2003/privateprocessing.com) | Landing page for a SaaS payment processor platform | Next.js, TypeScript, TailwindCSS |
-| [**samuelaziz.com**](https://github.com/Ako2003/samuelaziz.com) | Personal branding website with dark theme design | Next.js, TypeScript, TailwindCSS |
-| [**ihsan.com**](https://github.com/Ako2003/ihsan.com) | Fintech-style landing page with Arabic calligraphy and golden accents | Next.js, TypeScript, TailwindCSS |
-| [**portfolio**](https://github.com/Ako2003/portfolio) | Developer portfolio | TypeScript |
-| [**ui-components**](https://github.com/Ako2003/ui-components) | Reusable UI component library | TypeScript |
+| Project | What it is | Stack |
+|---|---|---|
+| [**mantleui**](https://github.com/Ako2003/mantleui) · [live](https://mantleui.vercel.app) · [npm](https://www.npmjs.com/package/@mantleui/react) | Open-source React component library. 109 components, 676+ tests, CI/CD, compound components, polymorphic types, headless hooks, full a11y. | React 19, TypeScript, Vitest, Turborepo, Next.js |
+| [**wealthcorporate**](https://github.com/Ako2003/wealthcorporate) | Corporate site with custom Framer Motion work — sticky scroll, horizontal scroll-on-scroll, parallax. | Next.js, Framer Motion, TailwindCSS |
+| [**privateprocessing.com**](https://github.com/Ako2003/privateprocessing.com) | B2B SaaS platform: multi-step onboarding, qualification engine matching merchants to 35+ processors, video LMS, admin dashboard, secure document pipeline. | Next.js, Nest.js, PostgreSQL, Prisma, AWS S3/Lambda, Docker |
 
 ---
 
-### Key Achievements
+### Stack
 
-- Built and deployed **12+ production applications** as the sole developer
-- Architected a **SaaS platform** with 35+ payment processors and intelligent matching engine
-- Executed a **full database migration** from MongoDB to PostgreSQL with zero downtime
-- Managed complete **AWS infrastructure** (S3, Lambda, App Runner, ECS) plus VPS/NGINX/Docker
-- All production sites achieve **90+ Google Lighthouse scores** across Performance, Accessibility, Best Practices, and SEO
+**Frontend** — React, Next.js, TypeScript, TailwindCSS, Framer Motion
+**Backend** — Node.js, Nest.js, Express, REST APIs, NextAuth/JWT
+**Data** — PostgreSQL, MongoDB, Prisma, Mongoose
+**Infra** — AWS (S3, Lambda), Docker, NGINX, Vercel, Cloudflare, GitHub Actions
+
+---
+
+### Selected Work
+
+- Sole engineer on a B2B SaaS platform: architecture, frontend, backend, admin panel, CI/CD, and VPS deployment
+- Secure document pipeline with S3 pre-signed URLs, Lambda notifications, and role-based access control
+- Video LMS with BunnyCDN streaming, progress tracking, and admin content management
+- Zero-downtime database migration from MongoDB to PostgreSQL with Prisma
 
 ---
 
 ### Links
 
-[Portfolio PDF](https://mega.nz/file/srVU2ara#aSUSNQe28OBp4CTavcSa0Owg2jW3szvutq1i2O_jY0w) · [akif-portfolio.vercel.app](https://akif-portfolio.vercel.app) · [LinkedIn](https://linkedin.com/in/akif-mursalov)
+[LinkedIn](https://linkedin.com/in/akif-mursalov) · [Portfolio](https://akif-portfolio.vercel.app)
 
 ---
 
-*Open to Full-Stack and Frontend Developer roles in Germany. Available for relocation.*
+*Open to Full-Stack and Frontend Engineer roles in Germany.*
