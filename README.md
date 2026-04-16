@@ -1,10 +1,10 @@
 # Akif Mursalov
 
-Full-Stack Engineer · Nürnberg, Germany
+Software Engineer · Nürnberg, Germany
 
 I build web applications end-to-end — from the UI down to the NGINX config. These days I care most about frontend craft: component architecture, design patterns, and the part of engineering where the product actually meets the person using it.
 
-I'm originally from Azerbaijan, did my Bachelor's in a joint program between French-Azerbaijani University (Baku) and Université de Strasbourg, and I'm now based in Nürnberg finishing my Master's in ICT at FAU Erlangen-Nuremberg. I speak five languages with varying degrees of confidence — Azerbaijani and Russian natively, Turkish fluently, English daily, and German somewhere around B1 and improving.
+I'm originally from Azerbaijan, did my Bachelor's in a joint program between French-Azerbaijani University (Baku) and Université de Strasbourg, and I'm now based in Nürnberg finishing my Master's in ICT at FAU Erlangen-Nuremberg.
 
 ---
 
